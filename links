@@ -28,7 +28,7 @@ http://ai.stanford.edu/~olga/papers/eccv10workshop-Attributes.pdf
 
 
 
-==
+======
 git config --global user.email "you@example.com"
 git config --global user.name "Your Name"
 $ git status
@@ -36,3 +36,7 @@ $ git checkout -b amend-my-name (Switched to a new branch 'amend-my-name')
 git checkout -b new-branch existing-branch (This creates a new branch new-branch, based on existing-branch.)
 git add attendees_and_learners.rst (stage your files)
 git commit -m "added my github name"
+	
+
+You can use git checkout <file> to check out the committed version of the file (thus discarding your changes), or git reset --hard HEAD to throw away any uncommitted changes for all files.
+
