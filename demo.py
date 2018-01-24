@@ -7,10 +7,7 @@ from helpers import *
 from matplotlib import pyplot as plt 
 import _pickle
 
-<<<<<<< HEAD
 
-=======
->>>>>>> 4e66570a315254d8e696bbea89f43c7dc2d85052
 # feature = scipi.loadmat('attfeat.mat')
 # #tran = scipi.loadmat('attrann.mat')
 # bov_helper = BOVHelpers(100)
@@ -35,10 +32,7 @@ print(len(locs))
 
 # np.save('/home/ubuntu/Documents/Program/Bag-of-Visual-Words-Python-master/images/Default/106400.sift', np.hstack(int_descriptors))
 
-<<<<<<< HEAD
-=======
 
->>>>>>> 4e66570a315254d8e696bbea89f43c7dc2d85052
 # nfeatures = int_descriptors.shape[1]
 # padding = np.zeros((2, nfeatures))
 # locs = np.vstack((locs, padding))
