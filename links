@@ -1,0 +1,38 @@
+https://machinelearningmastery.com/feature-selection-machine-learning-python/
+http://www.bogotobogo.com/python/scikit-learn/scikit_machine_learning_Data_Preprocessing-III-Dimensionality-reduction-via-Sequential-feature-selection-Assessing-feature-importance-via-random-forests.php
+http://blog.datadive.net/selecting-good-features-part-ii-linear-models-and-regularization/
+http://scikit-learn.org/stable/auto_examples/linear_model/plot_logistic_path.html
+https://github.com/wangg12/cup_proj/blob/master/sift_bow/findFeatures.py
+https://stackoverflow.com/questions/25680529/store-the-extracted-surf-descriptors-and-keypoints-in-npy-file
+https://singhgaganpreet.wordpress.com/category/opencv/reading-n-writing-sift-descriptors/
+https://www.codeproject.com/Articles/619039/Bag-of-Features-Descriptor-on-SIFT-Features-with-O
+https://stackoverflow.com/questions/3685265/how-to-write-a-multidimensional-array-to-a-text-file/18145279
+https://github.com/ansible/ansible/issues/9413
+http://ai.stanford.edu/~olga/papers/eccv10workshop-Attributes.pdf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+$ git status
+$ git checkout -b amend-my-name (Switched to a new branch 'amend-my-name')
+git checkout -b new-branch existing-branch (This creates a new branch new-branch, based on existing-branch.)
+git add attendees_and_learners.rst (stage your files)
+git commit -m "added my github name"
