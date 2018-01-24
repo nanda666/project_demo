@@ -7,7 +7,10 @@ from helpers import *
 from matplotlib import pyplot as plt 
 import _pickle
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 4e66570a315254d8e696bbea89f43c7dc2d85052
 # feature = scipi.loadmat('attfeat.mat')
 # #tran = scipi.loadmat('attrann.mat')
 # bov_helper = BOVHelpers(100)
@@ -32,6 +35,10 @@ print(len(locs))
 
 # np.save('/home/ubuntu/Documents/Program/Bag-of-Visual-Words-Python-master/images/Default/106400.sift', np.hstack(int_descriptors))
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 4e66570a315254d8e696bbea89f43c7dc2d85052
 # nfeatures = int_descriptors.shape[1]
 # padding = np.zeros((2, nfeatures))
 # locs = np.vstack((locs, padding))
@@ -61,10 +68,4 @@ f_feat_out.close()
 
 
 
-https://github.com/wangg12/cup_proj/blob/master/sift_bow/findFeatures.py
-https://stackoverflow.com/questions/25680529/store-the-extracted-surf-descriptors-and-keypoints-in-npy-file
-https://singhgaganpreet.wordpress.com/category/opencv/reading-n-writing-sift-descriptors/
-https://www.codeproject.com/Articles/619039/Bag-of-Features-Descriptor-on-SIFT-Features-with-O
-https://stackoverflow.com/questions/3685265/how-to-write-a-multidimensional-array-to-a-text-file/18145279
-https://github.com/ansible/ansible/issues/9413
-http://ai.stanford.edu/~olga/papers/eccv10workshop-Attributes.pdf
+
