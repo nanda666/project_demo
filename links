@@ -28,7 +28,7 @@ http://ai.stanford.edu/~olga/papers/eccv10workshop-Attributes.pdf
 
 
 
-
+==
 git config --global user.email "you@example.com"
 git config --global user.name "Your Name"
 $ git status
